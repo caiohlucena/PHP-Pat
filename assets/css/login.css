@@ -9,7 +9,7 @@ body {
 
 input[type=text], input[type=password] {
     padding: 12px 20px;
-    margin: 8px 0;
+    margin: 0px 0;
     display: inline-block;
     border: 1px solid #ccc;
     box-sizing: border-box;
@@ -18,7 +18,6 @@ input[type=text], input[type=password] {
 h3 { color: white; }
 .conteiner{
     padding: 200px 0;
-    border: 1px solid black;
     text-align: center;;
 }
 

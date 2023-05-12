@@ -24,7 +24,7 @@
 <div class="conteiner">
     <h3 class="text">Faça seu Login</h3>
     <div class="box">
-        <form class="Form" action="login.php" method="POST">
+        <form class="Form" action="" method="POST">
             <input type="text" name="Name" placeholder="Nome do Usuário" /><br />
             <br />
             <input type="password" name="Psw" placeholder="Senha" /><br />
